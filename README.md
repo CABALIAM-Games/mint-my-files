@@ -22,14 +22,18 @@ Team project founded by Fernando Cabal and Supported by CABALIAM Games project
 
 =========================================================================================================
 
-Google Drive ref docs and architectures
-https://drive.google.com/drive/folders/1gBdCxYwuIgHm617Ws6VMEwb3cccK_YOp?usp=sharing
+
+Learning sessions and references 
+https://events.protocol.ai/2021/browsers3000/
 
 https://docs.filecoin.io/get-started/store-and-retrieve/
 
 https://provendb.readme.io/docs/home
 https://provendb.readme.io/docs/what-is-provendocs
 
+
+Google Drive ref docs , research papers, .and architectures
+https://drive.google.com/drive/folders/1gBdCxYwuIgHm617Ws6VMEwb3cccK_YOp?usp=sharing
 
 
 =========================================================================================================
